@@ -44,5 +44,4 @@ Each project includes:
 
 ---
 
-⭐ Feel free to explore my projects and reach out for collaboration!
 
